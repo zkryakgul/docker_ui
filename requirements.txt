@@ -1,0 +1,8 @@
+certifi==2018.4.16
+Django==1.11.9   
+docker==2.7.0    
+docker-pycreds==0.3.0    
+ipaddress==1.0.22   
+requests==2.19.1   
+urllib3==1.23     
+websocket-client==0.48.0
