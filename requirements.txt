@@ -1,5 +1,5 @@
 certifi==2018.4.16
-Django==2.2.24   
+Django==2.2.27   
 docker==2.7.0    
 docker-pycreds==0.3.0    
 ipaddress==1.0.22   
