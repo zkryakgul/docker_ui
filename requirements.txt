@@ -1,4 +1,4 @@
-certifi==2018.4.16
+certifi==2022.12.7
 Django==2.2.28   
 docker==2.7.0    
 docker-pycreds==0.3.0    
