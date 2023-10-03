@@ -4,5 +4,5 @@ docker==2.7.0
 docker-pycreds==0.3.0    
 ipaddress==1.0.22   
 requests==2.31.0
-urllib3==1.26.5
+urllib3==1.26.17
 websocket-client==0.48.0
